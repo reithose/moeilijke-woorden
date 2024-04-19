@@ -1,0 +1,10 @@
+{
+  "name": "moeilijke-woorden",
+  "version": "1.0.0",
+  "description": "Een lijst met moeilijke woorden die gebruikt kan worden met textlint-rule-terminology",
+  "main": "moeilijke-woorden.json",
+  "author": "reithose",
+  "devDependencies": {
+    "np": "^10.0.3"
+  }
+}
