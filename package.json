@@ -4,5 +4,8 @@
   "description": "Een lijst met moeilijke woorden die gebruikt kan worden met textlint-rule-terminology",
   "main": "moeilijke-woorden.json",
   "author": "reithose",
-  "repository": "git@github.com:reithose/moeilijke-woorden.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reithose/moeilijke-woorden.git"
+  }
 }
