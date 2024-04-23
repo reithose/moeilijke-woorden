@@ -1,11 +1,18 @@
 {
   "name": "moeilijke-woorden",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Een lijst met moeilijke woorden die gebruikt kan worden met textlint-rule-terminology",
   "main": "moeilijke-woorden.json",
   "author": "reithose",
   "repository": {
     "type": "git",
     "url": "https://github.com/reithose/moeilijke-woorden.git"
-  }
+  },
+  "keywords": [
+    "WCAG",
+    "a11y",
+    "Onzetaal",
+    "textlint",
+    "textlint-rule-terminology"
+  ]
 }
