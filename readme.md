@@ -27,7 +27,7 @@ Voeg de lijst toe aan het configuratiebestand van textlint.
   "rules": {
     "stop-words": true,
     "terminology": {
-      "terms": "./node_modules/moeilijke-woorden/moeilijke-woorden.json"
+      "terms": "../../moeilijke-woorden/moeilijke-woorden.json"
     }
   }
 }
