@@ -1,6 +1,6 @@
 {
   "name": "moeilijke-woorden",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Een lijst met moeilijke woorden die gebruikt kan worden met textlint-rule-terminology",
   "main": "moeilijke-woorden.json",
   "author": "reithose",
@@ -13,6 +13,7 @@
     "a11y",
     "Onzetaal",
     "textlint",
-    "textlint-rule-terminology"
+    "textlint-rule-terminology",
+    "ISO24495"
   ]
 }
