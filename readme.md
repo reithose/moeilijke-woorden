@@ -25,7 +25,6 @@ Voeg de lijst toe aan het configuratiebestand van textlint.
   "plugins": {},
   "filters": {},
   "rules": {
-    "stop-words": true,
     "terminology": {
       "terms": "../../moeilijke-woorden/moeilijke-woorden.json"
     }
